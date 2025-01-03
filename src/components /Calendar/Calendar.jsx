@@ -2,6 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import Modal from '../Modal/Modal';
 import './Calendar.scss';
+import Calendar from './components/Calendar/Calendar';  // Without extra slashes or typos
 
 const days = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
 
