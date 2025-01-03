@@ -1,6 +1,7 @@
 import React from 'react';
 import { Routes, Route, Navigate } from 'react-router-dom';
-import Calendar from './components/Calendar/Calendar';
+import Calendar from './components /Calendar/Calendar.jsx';
+//src/components /Calendar/Calendar.jsx
 
 
 
