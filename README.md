@@ -1,6 +1,7 @@
 Hello peps..
 
-## Description
+## Description![Screenshot 2025-01-04 002959](https://github.com/user-attachments/assets/b6faca24-d23d-4943-af38-24accff0032a)
+
 
 This is a simple React application that displays a calendar with the current month and allows the user to select a date. The user can also add events to the calendar by clicking on a date and filling out a form. The events are saved in the browser's local storage. (for now).
 
