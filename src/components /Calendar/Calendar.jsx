@@ -9,7 +9,7 @@ const days = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
 //function Calendar({ isOpen, onOpen, onClose }) {
 //function Calendar({ isOpen, onOpen, onClose }) {
   // Your component code
-}
+//}
 
 const Calendar = ({ isOpen, onOpen, onClose }) => {
   // Your component code
