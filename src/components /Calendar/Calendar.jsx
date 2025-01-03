@@ -6,7 +6,15 @@ import Calendar from './components/Calendar/Calendar';  // Without extra slashes
 
 const days = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
 
-function Calendar({ isOpen, onOpen, onClose }) {
+//function Calendar({ isOpen, onOpen, onClose }) {
+//function Calendar({ isOpen, onOpen, onClose }) {
+  // Your component code
+}
+
+const Calendar = ({ isOpen, onOpen, onClose }) => {
+  // Your component code
+};
+
   // define the state for the current date using the JS Date object
   const [currentDate, setCurrentDate] = React.useState(() => {
     // try to retrieve the saved date from localStorage
