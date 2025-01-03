@@ -1,6 +1,8 @@
 import React from 'react';
 import { Routes, Route, Navigate } from 'react-router-dom';
-import Calendar from './components/Calendar/Calendar';
+
+import Calendar from '@components/Calendar/Calendar';
+
 
 function App() {
   const [isModalOpen, setIsModalOpen] = React.useState(false);
